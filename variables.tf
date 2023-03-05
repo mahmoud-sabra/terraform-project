@@ -17,7 +17,15 @@ variable "preferred_number_of_public_subnets" {
 variable "preferred_number_of_private_subnets" {
   default = null
 }
-
+variable "preferred_number_of_elastic_ip" {
+  default = null
+}
+variable "preferred_number_of_natgw"{
+  default = null
+}
+variable "preferred_number_of_private_subnets_association" {
+  default = null
+}
 variable "public_route_table_cidr" {
   default = "string"
 
