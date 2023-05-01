@@ -1,6 +1,5 @@
-#  3-tier-web-Application
-terraform-project used for 3-tier-web-Application
-![Uploading 197526138-6fc583b5-e963-45b3-8113-2c4163b98b16.png…]()
+#  AUTOMATE INFRASTRUCTURE WITH IAC USING TERRAFORM
+![image](https://user-images.githubusercontent.com/52472369/235461671-a9dcd139-3b6e-46fe-b084-26f37887b0fa.png)
 
 My infrastructure is a three-tiered architecture that features the following and more:
 
